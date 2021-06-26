@@ -1,0 +1,9 @@
+if (Mouse.LeftButton == MouseButtonState.Pressed)
+{
+    print ("Left mouse button clicked")
+}
+
+if (Mouse.RightButton == MouseButtonState.Pressed)
+{
+    print ("Right mouse button clicked")
+}
